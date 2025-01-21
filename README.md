@@ -18,6 +18,9 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 ```console
 source /root/.bashrc
 ```
+```console
+gaianet init' to initialize the GaiaNet node
+```
 
 ```console
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/refs/heads/main/llama-3.2-3b-instruct/config.json
