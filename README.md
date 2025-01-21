@@ -1,5 +1,5 @@
 <h1>The easiest guide to run a GaiaNet node</h1>
-<h>💎Youtube video tutorial: https://youtu.be/nJ3fyyUwd3E?si=d26SiArlBF1l3siW</h>
+<h>💎Youtube video tutorial(https://www.youtube.com/@cryptourduofficial110)
 
 🫰💸💴🤑💲💰
 
@@ -32,5 +32,3 @@ gaianet start
 gaianet info
 ```
 
-<h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
-🪂Link: https://telegram.me/feature_earning
